@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape with rounded corners -->
+    <item>
+        <shape
+            android:shape="rectangle">
+            <solid android:color="@color/white" /> <!-- Background color -->
+
+        </shape>
+    </item>
+
+    <!-- Shadow and elevation -->
+    <item
+        android:bottom="2dp">
+        <shape
+            android:shape="rectangle">
+            <solid android:color="@color/shadow_color" /> <!-- Shadow color -->
+
+        </shape>
+    </item>
+</layer-list>

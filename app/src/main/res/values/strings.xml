@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TajBih</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Name</string>
+    <string name="current">Current</string>
+    <string name="target">Target</string>
+    <string name="delete">Delete</string>
+
+    <string name="create_tasbeeh">Create Tasbeeh</string>
+
+
+</resources>

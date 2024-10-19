@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="tasbeehText">#006C62</color>
+    <color name="listText">#006C62</color>
+    <color name="learnText">#006C62</color>
+    <color name="modeText">#006C62</color>
+
+    <color name="shadow_color">#E5E5E5</color>
+    <color name="stroke_color">#E8E8E8</color>
+    <color name="fillColor">#949F97</color>
+
+    <color name="color3">#430202</color>
+    <color name="color2">#0E0B0B</color>
+    <color name="color1">#757575</color>
+    <color name="nightModeBackground">#000000</color>
+
+</resources>
